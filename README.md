@@ -39,7 +39,7 @@ worth nothing elems are:
 - https://www.youtube.com/watch?v=Q34Jl0nck1o
 
 
-## Cool Instaurations:          
+## Cool Illustrations:          
 ### Architecture
 ![architecture](resources/architecture.png)      
 ```
